@@ -1,0 +1,10 @@
+opencv-python
+mediapipe==0.10.9
+numpy
+scikit-learn
+customtkinter
+speechrecognition
+pyttsx3
+pyaudio
+cohere
+python-dotenv
